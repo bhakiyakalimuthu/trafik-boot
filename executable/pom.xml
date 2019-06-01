@@ -41,7 +41,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-
+		<finalName>trafik-boot</finalName>
 		<resources>
 			<resource>
 				<directory>src/main/resources</directory>

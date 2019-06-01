@@ -16,7 +16,7 @@ public class TrafikBootApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(TrafikBootApplication.class, args);
+		SpringApplication.run(TrafikBootApplication.class, args).close();
 	}
 
 
