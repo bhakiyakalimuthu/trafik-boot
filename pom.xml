@@ -19,6 +19,7 @@
 		<junit.version>4.12</junit.version>
 		<mockito.version>1.10.19</mockito.version>
 		<commons-lang>2.6</commons-lang>
+		<application.workdir>application</application.workdir>
 	</properties>
 
 	<dependencies>
